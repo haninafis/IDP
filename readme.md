@@ -16,11 +16,11 @@
 
 | Vocalython |  MEAN  |
 | ---------- |  ----  |
-| JK         |  IF    |
-| CTK        |  PRINT |
-| MK         |  THEN  |
-| LN         |  ELSE  |
-| NTK        |  FOR   |
-| FNGS       |  FUN   |
-| SMP        |  TO    |
+| jika       |  IF    |
+| cetak      |  PRINT |
+| maka       |  THEN  |
+| lain       |  ELSE  |
+| untuk      |  FOR   |
+| fungsi     |  FUN   |
+| sampai     |  TO    |
 | ->         |  ARROW |
