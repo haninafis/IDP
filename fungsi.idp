@@ -1,0 +1,4 @@
+fungsi halo() -> cetak "Hi"
+
+halo()
+halo()
