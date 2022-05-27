@@ -9,7 +9,7 @@
 # Dokumentasi
 
 ## Tentang
-- Indopython dibuat menggunakan library SLY [PYTHON version 3.10.4](https://www.python.org/ "Python") 
+- Indopython dibuat menggunakan [library SLY](https://sly.readthedocs.io/en/latest/sly.html) [PYTHON version 3.10.4](https://www.python.org/ "Python") 
 - Indopython berekstensi .idp
 
 ## Sintaks
